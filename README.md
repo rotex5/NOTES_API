@@ -10,7 +10,7 @@ An API that lets users integrate a note management feature into their web apps.
 
 - Grouping notes together by name and date - *Comming Soon*
 
-## TECHNOLOGIES USED.
+## TECHNOLOGIES IN USE.
 - [Python (FastAPI)](https://fastapi.tiangolo.com/)
 - [Prosgres Database](https://www.postgresqltutorial.com/)
 - [Alembic](https://alembic.sqlalchemy.org/en/latest/)
@@ -35,7 +35,7 @@ https://github.com/rotex5/NOTES_API.git
 Navigate to project root directory and execute the following command in terminal to install required dependencies:
 
 ```
-pip install -r requirements.text
+pip install -r requirements.txt
 ```
 
 **Step 3:**
