@@ -6,7 +6,7 @@ An API that lets users integrate a note management feature into their web apps.
 
 - All CRUD operations on note management - *Done*
 
-- User Login and Authentication - *Comming Soon*
+- User Login and Authentication - *Done*
 
 - Grouping notes together by name and date - *Comming Soon*
 
